@@ -29,10 +29,6 @@ Project aims to create find the number game (between 0 to 100).
         |----index.js
 ```
 
-## Expected Outcome
-
-![Project 001 Snapshot](Project_001.png)
-
 ## Objective
 
 Build a Find the Number Game (Between 0 to 100)
