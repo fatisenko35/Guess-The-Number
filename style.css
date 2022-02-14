@@ -42,3 +42,23 @@ h1{
     color: #2EB086;
     font-size: 2.5rem;
 }
+
+@media (max-width : 800px) {
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-content: space-around;
+    }
+    img{
+        height: 55%;
+        width: 100%;
+        
+    }
+    .number{
+        display: block;
+    }
+    .input-button{
+        margin-top: 2rem;
+    }
+
+}
