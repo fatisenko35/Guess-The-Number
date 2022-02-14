@@ -7,16 +7,18 @@ body{
     background-color: #1572A1;
     font-family: 'Amiri', serif;
     color: white;
+    height: 100vh;
+
 
 }
 img{
     width:70%;
+    height: 70%;
 }
 
 .container{
     text-align: center;
-    height: 100vh;
-    margin-top: 0.5rem;
+    height: 90vh;
 
 }
 
