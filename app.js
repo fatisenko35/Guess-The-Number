@@ -34,7 +34,7 @@ let c = 8;
                 minNum = +inputArea.value;
                 guessNumber.innerHTML = `(${minNum} - ${maxNum})`;
                 
-            };
+            };   
         });
         restart.addEventListener("click", ()=>{
             window.location.reload(false);
